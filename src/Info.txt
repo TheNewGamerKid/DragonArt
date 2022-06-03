@@ -1,0 +1,5 @@
+https://www.tutsmake.com/react-google-login-button-example/
+https://dev.to/sumitkharche/how-to-deploy-react-application-on-iis-server-1ied#:~:text=Add%20the%20Site%20name%20and%20select%20application%20pool,Browse.%20Your%20react%20app%20is%20now%20successfully%20deployed.
+https://templatetoaster.com/tutorials/iis-set-domain-name/#:~:text=Set%20a%20Domain%20Name%20to%20IIS%20Now%20you,name%29%20and%20move%20to%20Sites%20%E2%86%92%20Add%20website.
+https://www.domain.com/registration/?flow=domainDFE&search=dragon-art#/domainDFE/1
+https://www.socialmediaexaminer.com/how-to-use-facebook-login-on-your-website/#:~:text=How%20to%20Use%20Facebook%20Login%20on%20your%20Website,your%20website%20in%20two%20ways.%20We%E2%80%99ll...%20See%20More.
